@@ -1,3 +1,6 @@
+// Dimension Name: WJ Week (Ordered)
+// Data Type: Text
+
 var weekOffset = {
 	'Wed': -5,
 	'Thu': -6,
